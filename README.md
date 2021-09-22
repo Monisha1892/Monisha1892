@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Monisha1892
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to find a place in programming world
-- 📫 How to reach me ...
+- 🌱 I’m learning Python 
+- 🎈Planning to learn Java and R
+- 🎡Interested in the field of Machine Learning, Data Science and Artificial Intelligence
+- 💞️ I want to be part of the programming world
+- 📫 monishap5559@gmail.com
 
 <!---
 Monisha1892/Monisha1892 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
